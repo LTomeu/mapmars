@@ -1,0 +1,1 @@
+ D:\\mapmars\\.dart_tool\\flutter_build\\c66b1cfc8347ae5e62835096ed4db59a\\native_assets.yaml: 
